@@ -5,7 +5,7 @@ import numpy as np
 import cv2
 import time
 
-
+# loading the stored model from file
 model=load_model(r'Fire-64x64-color-v7-soft.h5')
 
 cap = cv2.VideoCapture(r'VIDEO_FILE_NAME')
