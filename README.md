@@ -10,4 +10,4 @@ videos.
 It needs to be mentioned that the data used for training is only our custom created dataset, and not Foggia's full dataset. Testing was performed on previously held-out samples from our dataset as well as on Foggia's dataset. 
 
 The following is the link to our dataset used in the FireNet paper:
-- https://www.dropbox.com/sh/ahwir0su1u23htr/AAD5DerSzZF1CENcWCtJ68n1a?dl=0
+- https://drive.google.com/drive/folders/1HznoBFEd6yjaLFlSmkUGARwCUzzG4whq?usp=sharing
