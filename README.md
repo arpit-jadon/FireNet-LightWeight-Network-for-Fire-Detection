@@ -1,6 +1,6 @@
 # FireNet-LightWeight-Network-for-Fire-Detection
 > A Specialized Lightweight Fire & Smoke Detection Model for Real-Time IoT Applications
->>(Preprint of the research paper on this work is available at https://arxiv.org/abs/1905.11922v2. It will be soon submitted to a conference in the near future.)
+>>(Preprint of the research paper on this work is available at https://arxiv.org/abs/1905.11922v2. Please consider citing if you happen to use the codes or dataset.
 
 In our paper we showed results on two datasets:
 - A self created diverse dataset with images randomly sampled from our self-shot fire and non-fire
