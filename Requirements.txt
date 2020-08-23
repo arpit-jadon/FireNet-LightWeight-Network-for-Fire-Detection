@@ -1,0 +1,2 @@
+tensorflow--- 1.13.1 or higher (less than 2.0, for 2.0 and higher minor modifications are needed)
+keras--2.2.4 or higher (can work for lower versions as well try it out) 
