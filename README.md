@@ -1,12 +1,16 @@
 # FireNet-LightWeight-Network-for-Fire-Detection
 > A Specialized Lightweight Fire & Smoke Detection Model for Real-Time IoT Applications
 >>(Preprint of the research paper on this work is available at https://arxiv.org/abs/1905.11922v2. Please consider citing if you happen to use the codes or dataset.
->@article{jadon2019firenet,
+
+Citation:
+
+@article{jadon2019firenet,
   title={Firenet: A specialized lightweight fire \& smoke detection model for real-time iot applications},
   author={Jadon, Arpit and Omama, Mohd and Varshney, Akshay and Ansari, Mohammad Samar and Sharma, Rishabh},
   journal={arXiv preprint arXiv:1905.11922},
   year={2019}
 }
+
 In our paper we showed results on two datasets:
 - A self created diverse dataset with images randomly sampled from our self-shot fire and non-fire
 videos.
